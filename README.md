@@ -2,7 +2,7 @@
 
 ### _NikeShoe Website, built using HTML,CSS,JS !!_
 
-### Link :link: https://rak-nikeshoe.netlify.app/
+### Link :link: https://github.com/Nk-987/nike_shoes.git
 
 ## Interface
 
